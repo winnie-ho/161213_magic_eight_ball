@@ -3,4 +3,5 @@
     <string name="cc_app_name">CodeClan Magic 8 Ball</string>
     <string name="question">Ask a question</string>
     <string name="shake">Shake me ball!</string>
+    <string name="answer_activity_title">Computer says...</string>
 </resources>

@@ -48,7 +48,13 @@ public class Answer implements Answerable {
     private void setupAnswers() {
         String[] answersToAdd = {
                 "yes!",
-                "That would be an economical matter!"
+                "That would be an economical matter!",
+                "You wish!",
+                "Definitely not",
+                "I think so",
+                "Wouldn't you like to know",
+                "You don't need to know that",
+                "nup"
         };
 
 
